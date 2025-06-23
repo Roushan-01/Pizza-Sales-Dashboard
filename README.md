@@ -31,3 +31,5 @@ Ideal for retail analysts, sales managers, or anyone learning dashboarding with 
 - DAX & Data Modeling
 - Custom visuals & slicers
 
+- Video to showcase the dashboard : https://youtube.com/shorts/3fAfjgKMMN0?feature=share
+
